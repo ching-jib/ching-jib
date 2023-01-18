@@ -4,7 +4,7 @@
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="coderGIF" width="420">
 
 ### Infomation about me:
-- 🔭 I’m currently doing an apprenticeship as a frontend developer using Reactjs library, Javascript
-- 🌱 I’m constantly working on my frontend skills, learning open-sourced Javascript libraries - Redux, Node.js and basic Java
+- 🔭 I'm making a mid-career switch to IT industry - I have completed a 3 months SGUP-CT Junior Full Stack Developer Bootcamp with Temasek Polytechnic and a 6 months apprenticeship as a frontend developer using Reactjs library, Javascript at a start-up company
+- 🌱 I’m currently learning Java and Spring Boot
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/chingyifong)**
 - ⚡ Fun fact: I'm enjoy reformer pilates and watching anime (Demon Slayer, Spy Family)
